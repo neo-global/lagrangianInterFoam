@@ -1,0 +1,3 @@
+# the custom folder has legacy transition code, based on Vallier's work.
+# no longer in use since transition was moved within Cloud evolution.
+# left available in case of future use, e.g. for building Eulerian side access
